@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The report of the Committee of the Army upon a reference from His Highness, in a case depending between Francis Farrington Plaintiff, and VVilliam Chamberlaine defendant. At the Committee for the Army, May 18. 1656.</title>
+            <author>England and Wales. Committee for the Army.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28920</idno><idno type="EEBO-CITATION">99886103</idno>
+  <idno type="VID">185928</idno>
+  <idno type="EEBO-PROQUEST">2248538038</idno>
+  
+            <idno type="STC">Wing R1085</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[91]</idno>
+            <idno type="STC">ESTC R225409</idno>
+            <idno type="PROQUEST">ocm99886103</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886103e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185928)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[90])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The report of the Committee of the Army upon a reference from His Highness, in a case depending between Francis Farrington Plaintiff, and VVilliam Chamberlaine defendant. At the Committee for the Army, May 18. 1656.</title>
+                  <author>England and Wales. Committee for the Army.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at foot: John Clerke, Rich. Lucy, Jo. Hildesley, Ger. Benet.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Counterfeits and counterfeiting --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185928:1"/>
+            <head>The Report of the Committee of the Army upon a Reference from His HIGHNESS, in a Case depending between <hi>Francis Farrington</hi> Plaintiff, and <hi>VVilliam Cham<g ref="char:EOLhyphen"/>berlaine</hi> Defendant.</head>
+            <opener>
+               <dateline>At the COMMITTEE for the ARMY, <date>May 18. 1656.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N pursuance of a Reference from His Highness the Lord Protector of the 3<seg rend="sup">d</seg> of <hi>January</hi> 1655. whereby the Petition of <hi>William Chamberlaine</hi> of <hi>London</hi> Merchant (relating to a difference between him the said <hi>Chamber<g ref="char:EOLhyphen"/>laine</hi> and one <hi>Francis Farrington</hi>) is referred to this Committee, with direction to call for the Parties and exa<g ref="char:EOLhyphen"/>mine Witnesses concerning the Particulars mentioned in the said Petition, and compose the matters in difference, or otherwise certifie the same to his Highness with their opinion.</p>
+            <p>Wee do humbly certifie, That having appointed a day for Hearing of the said Difference and given notice thereof to the Parties concerned) <hi>Chamberlaine</hi> personally appeared before us; but <hi>Farrington</hi> only by his Counsel, and craved a Copie of the Petition and Reference, and time to put in an Answer; which was granted, and a week's time given for bringing in the same, (which accordingly was brought in) and another day was appointed for both Parties to bee present, in order to a full Hearing of the matter in Controversie, and examination of the Witnesses to bee produced on each side: On which day of Hear<g ref="char:EOLhyphen"/>ing, <hi>Chamberlaine</hi> with his Partie appeared, but not <hi>Farrington,</hi> nor any on his behalf. Whereupon this Committee proceeded to the perusal of several Affidavits taken before a Master of the <hi>Chancery</hi> (and now remaining with this Committee); by which it ap<g ref="char:EOLhyphen"/>pear's, That the said <hi>Farrington</hi> is guiltie of several notorious and gross Cheats and Abuses in the counterfeiting and forging of several Debenters or Publick-Faith-Bills to a considerable value, and passing som of them upon purchase of Lands at <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>-hous<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For which Cheats and Forgeries notice was given to the Parlament by one Colonel <hi>John Jackson,</hi> and a Warrant issued under the hand of the Speaker for the apprehending of him; upon which hee secretly conveyed himself to the <hi>Barbadoes</hi> under anoth<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Name. And upon Articles exhibited to the then Council of State by one <hi>Ioseph Briggs,</hi> a Warrant was issued forth for the ap<g ref="char:EOLhyphen"/>prehending and taking into custodie the said <hi>Farrington,</hi> who was thereupon brought over into <hi>England,</hi> and remained here a Pri<g ref="char:EOLhyphen"/>soner for som time. The said <hi>Farrington</hi> upon a pretence that th'aforesaid Warrants were procured and the said Informations and Articles exhibited by the Petitioner <hi>William Chamberlaine,</hi> caused the said <hi>Chamberlaine</hi> to bee arrested upon two several Acti<g ref="char:EOLhyphen"/>ons of thirtie thousand Pounds each, at the publick Exchange, whereupon hee was forced to give special Bail; And hee the said <hi>Farrington</hi> became non-suited in both his said Actions. In defent of which the said <hi>Chamberlaine</hi> hath expended at the least three hundred Pounds, besides loss of time, and great discredit to him in the way of his Calling, as appear's by the said <hi>Chamberlaine</hi>'s Affidavit taken also before a Master of the <hi>Chancery.</hi> And there beeing several other particulars wherein the dishonest and abusive Deportment of the said <hi>Farrington</hi> (and som that adhere to him) in the prosecution of his malicious and ungrounded pretences a<g ref="char:EOLhyphen"/>gainst the said <hi>Chamberlaine</hi> appear's (which would bee too tedious to relate). Wee do humbly take leav upon the whole, to certi<g ref="char:EOLhyphen"/>fie, That by what hath now appeared before us, and what wee have seen by former Informations exhibited against him to the for<g ref="char:EOLhyphen"/>mer Committee for the Army, and by what som of us have discovered of him upon other occasions, Wee do finde the said <hi>Far<g ref="char:EOLhyphen"/>rington</hi> guilty of such notorious Cheats and Forgeries, that (wee humbly conceiv) hee deserv's the severest punishment that can bee inflicted upon a Person for Crimes of that nature; hee beeing at this present (as wee are informed) in Custodie with the Serjeant at Arms for som Acts of Forgerie, exceeding prejudicial to the Publick.</p>
+            <p>And in regard the said <hi>Chamberlaine</hi> hath been so injuriously and causlesly arrested and prosecuted by him the said <hi>Farrington,</hi> (and lyable still to bee farther troubled, unless relieved by Your Highness), Wee do take leav farther humbly to offer as our Opi<g ref="char:EOLhyphen"/>nion, That the said <hi>Chamberlaine</hi> ought to bee repaired by the said <hi>Farrington</hi> for the dammage hee hath susteined by his vexatious Suits; And that the said <hi>Farrington</hi> ought to bee made utterly uncapable of ever troubling him the said <hi>Chamberlaine</hi> or any other upon such causless and groundless pretences: Whi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is humbly submitted to His Highness Consideration.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Clerke,</item>
+                     <item>Rich. Lucy,</item>
+                     <item>Jo. Hildesley,</item>
+                     <item>Ger. Benet.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>This is a true Copie of the Original, examined by <hi>Roz. Bowes.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
